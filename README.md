@@ -1,4 +1,4 @@
-#Git hub 저장
+# Git hub Profile_LeeJunYup
 1. 백준 문제 풀이
 2. Kaggle 타이타닉
 3. 네이버 영화 댓글 sentiment 분석
